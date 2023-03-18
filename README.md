@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 '''
 
-patika adresim: https://app.patika.dev/mingorad
+[Patika Adresim](https://app.patika.dev/mingorad)
 
 Berkay Cenikli
 
