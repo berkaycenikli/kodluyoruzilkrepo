@@ -1,5 +1,11 @@
 # Kodluyoruz Ilk Repo
+'''
 
+patika adresim: https://app.patika.dev/mingorad
+
+Berkay Cenikli
+
+'''
 Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitimide oluşturduğumuz ilk depo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Lorem Picsum Gorsel](https://picsum.photos/200/300?grayscale)
